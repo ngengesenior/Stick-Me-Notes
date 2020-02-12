@@ -8,9 +8,9 @@ Stick Me Notes is a sample Android application that has one purpose alone, which
 
 The main libraries used are
 
-- Kotlin coroutines
-- Room library
-- LiveData and ViewModel
+- [Kotlin coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
+- [Room library](https://developer.android.com/reference/android/arch/persistence/room/RoomDatabase)
+- [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 
 ### Purpose of App
 
@@ -22,7 +22,7 @@ The app so far is composed of two activities which are the MainActivity and NewN
 
 
 
-| ![MainActivity]() |      |
-| ----------------- | ---- |
-|                   |      |
+| ![MainActivity](screenshots/mainactivity.png) | ![NewNoteActivity](screenshots/newnote.png) |
+| --------------------------------------------- | ------------------------------------------- |
+|                                               |                                             |
 
